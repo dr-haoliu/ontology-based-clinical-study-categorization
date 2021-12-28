@@ -1,0 +1,31 @@
+Condition
+Condition Status
+Cost
+Currency
+Device
+Drug
+Episode
+Ethnicity
+Gender
+Geography
+Meas Value
+Meas Value Operator
+Measurement
+Metadata
+Observation
+Payer
+Plan
+Plan Stop Reason
+Procedure
+Provider
+Race
+Relationship
+Revenue Code
+Route
+Spec Anatomic Site
+Spec Disease Status
+Specimen
+Sponsor
+Type Concept
+Unit
+Visit

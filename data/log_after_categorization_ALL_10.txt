@@ -1,0 +1,198 @@
+original NCT size = 4506
+Size of NCTs failed to map to SNOMED concept = 5
+Nctids due to no mapped to SNOMED concept = NCT00932698
+Nctids due to no mapped to SNOMED concept = NCT02340975
+Nctids due to no mapped to SNOMED concept = NCT02318706
+Nctids due to no mapped to SNOMED concept = NCT01777165
+Nctids due to no mapped to SNOMED concept = NCT00919854
+Concept names not mapped to SNOMED = NCT01305200	Refractory Hodgkin's lymphoma
+Concept names not mapped to SNOMED = NCT00987415	Elevated serum chromium
+Concept names not mapped to SNOMED = NCT00932698	Relapse multiple myeloma
+Concept names not mapped to SNOMED = NCT01074008	Hepatitis C genotype 1
+Concept names not mapped to SNOMED = NCT01221298	Hepatitis C genotype 1
+Concept names not mapped to SNOMED = NCT01464827	Hepatitis C genotype 1
+Concept names not mapped to SNOMED = NCT01989572	Malignant melanoma stage IIA
+Concept names not mapped to SNOMED = NCT01989572	Malignant melanoma stage IIA
+Concept names not mapped to SNOMED = NCT01989572	Malignant melanoma stage IIB
+Concept names not mapped to SNOMED = NCT01989572	Malignant melanoma stage IIB
+Concept names not mapped to SNOMED = NCT01989572	Malignant melanoma stage IIIA
+Concept names not mapped to SNOMED = NCT01989572	Malignant melanoma stage IIIA
+Concept names not mapped to SNOMED = NCT01989572	Malignant melanoma stage IIIB
+Concept names not mapped to SNOMED = NCT01989572	Malignant melanoma stage IIIB
+Concept names not mapped to SNOMED = NCT01989572	Malignant melanoma stage IIIC
+Concept names not mapped to SNOMED = NCT01989572	Malignant melanoma stage IIIC
+Concept names not mapped to SNOMED = NCT00965081	Secondary fibromyalgia
+Concept names not mapped to SNOMED = NCT01506908	Episodic dependence on cigarette smoking
+Concept names not mapped to SNOMED = NCT01777165	Acute injury of kidney
+Concept names not mapped to SNOMED = NCT00236769	Male relying on female contraception
+Concept names not mapped to SNOMED = NCT02318706	Diabetic peripheral neuropathic pain
+Concept names not mapped to SNOMED = NCT02607280	Diabetic peripheral neuropathic pain
+Concept names not mapped to SNOMED = NCT01322165	FBN1 gene mutation positive
+Concept names not mapped to SNOMED = NCT02274818	Pain commenced - educational area
+Concept names not mapped to SNOMED = NCT02340975	Metastatic gastroesophageal adenocarcinoma
+Concept names not mapped to SNOMED = NCT00919854	Human immunodeficiency virus contact
+To be bucketed NCT size = 4501
+bucketed NCT size = 4419
+nctids bucketed to Healthy: NCT03437564
+nctids bucketed to Healthy: NCT01760187
+nctids bucketed to Healthy: NCT01929746
+nctids bucketed to Healthy: NCT00942175
+nctids bucketed to Healthy: NCT00975754
+nctids bucketed to Healthy: NCT03928262
+nctids bucketed to Healthy: NCT01215084
+nctids bucketed to Healthy: NCT01156246
+nctids bucketed to Healthy: NCT02224053
+nctids bucketed to Healthy: NCT02096679
+nctids bucketed to Healthy: NCT03511105
+nctids bucketed to Healthy: NCT02037477
+nctids bucketed to Healthy: NCT01055691
+nctids bucketed to Healthy: NCT02248883
+nctids bucketed to Healthy: NCT00359281
+nctids bucketed to Healthy: NCT00639678
+nctids bucketed to Healthy: NCT01568112
+nctids bucketed to Healthy: NCT01200368
+nctids bucketed to Healthy: NCT01299805
+nctids bucketed to Healthy: NCT02817516
+nctids bucketed to Healthy: NCT02382640
+nctids bucketed to Healthy: NCT02080468
+nctids bucketed to Healthy: NCT01072578
+nctids bucketed to Healthy: NCT02508168
+nctids bucketed to Healthy: NCT01281111
+nctids bucketed to Healthy: NCT00119067
+nctids bucketed to Healthy: NCT02774902
+nctids bucketed to Healthy: NCT02178059
+nctids bucketed to Healthy: NCT02125578
+nctids bucketed to Healthy: NCT01069913
+nctids bucketed to Healthy: NCT02742766
+nctids bucketed to Healthy: NCT01173562
+nctids bucketed to Healthy: NCT02504320
+nctids bucketed to Healthy: NCT01420458
+nctids bucketed to Healthy: NCT02044419
+nctids bucketed to Healthy: NCT01924832
+nctids bucketed to Healthy: NCT01453426
+nctids bucketed to Healthy: NCT01313364
+nctids bucketed to Healthy: NCT02171208
+nctids bucketed to Healthy: NCT03216278
+nctids bucketed to Healthy: NCT01951599
+nctids bucketed to Healthy: NCT02932904
+nctids bucketed to Healthy: NCT01915901
+nctids bucketed to Healthy: NCT01978652
+un-bucketed NCT size = 38
+Un-bucketed nctids due to not located in SNOMED hierarchy = NCT01742234
+	trialRecord.conceptName = Willing to be donor of liver
+	trialRecord.CTgovText = Living Donors
+	trialRecord.conceptName = Normal tissue
+	trialRecord.CTgovText = Tissue Donors
+Un-bucketed nctids due to not located in SNOMED hierarchy = NCT01506908
+	trialRecord.conceptName = Heroin dependence
+	trialRecord.CTgovText = Smoking
+Un-bucketed nctids due to not located in SNOMED hierarchy = NCT01696604
+	trialRecord.conceptName = Cachexia
+	trialRecord.CTgovText = Cachexia
+Un-bucketed nctids due to not located in SNOMED hierarchy = NCT02260557
+	trialRecord.conceptName = Secondary Raynaud's phenomenon
+	trialRecord.CTgovText = Raynaud's Phenomenon Secondary to Systemic Sclerosis
+Un-bucketed nctids due to not located in SNOMED hierarchy = NCT02045940
+	trialRecord.conceptName = Cachexia
+	trialRecord.CTgovText = Cachexia
+Un-bucketed nctids due to not located in SNOMED hierarchy = NCT03311659
+	trialRecord.conceptName = Post diphtheria, tetanus and pertussis vaccination fever
+	trialRecord.CTgovText = Diphtheria-Tetanus-acellular Pertussis Vaccines
+Un-bucketed nctids due to not located in SNOMED hierarchy = NCT01669083
+	trialRecord.conceptName = Complications of attempted introduction of embryo in embryo transfer
+	trialRecord.CTgovText = Embryo Transfer
+Un-bucketed nctids due to not located in SNOMED hierarchy = NCT02255123
+	trialRecord.conceptName = Cardiac transplant disorder
+	trialRecord.CTgovText = Cardiac Transplantation
+Un-bucketed nctids due to not located in SNOMED hierarchy = NCT00141206
+	trialRecord.conceptName = Heroin dependence
+	trialRecord.CTgovText = Smoking Cessation
+Un-bucketed nctids due to not located in SNOMED hierarchy = NCT02829307
+	trialRecord.conceptName = Disorder due to and following drug poisoning
+	trialRecord.CTgovText = Drug-Related Side Effects and Adverse Reactions
+Un-bucketed nctids due to not located in SNOMED hierarchy = NCT01131871
+	trialRecord.conceptName = Preoccupation with body weight
+	trialRecord.CTgovText = Body Weight
+Un-bucketed nctids due to not located in SNOMED hierarchy = NCT01065090
+	trialRecord.conceptName = Exercise state
+	trialRecord.CTgovText = Exercise
+Un-bucketed nctids due to not located in SNOMED hierarchy = NCT02213029
+	trialRecord.conceptName = Complications of attempted introduction of embryo in embryo transfer
+	trialRecord.CTgovText = Embryo Transfer
+Un-bucketed nctids due to not located in SNOMED hierarchy = NCT02170220
+	trialRecord.conceptName = Semantic impairment
+	trialRecord.CTgovText = Severe Hepatic Impairment
+Un-bucketed nctids due to not located in SNOMED hierarchy = NCT02377349
+	trialRecord.conceptName = Post diphtheria, tetanus and pertussis vaccination fever
+	trialRecord.CTgovText = Diphtheria-Tetanus-acellular Pertussis Vaccines
+Un-bucketed nctids due to not located in SNOMED hierarchy = NCT02123953
+	trialRecord.conceptName = Nose finding
+	trialRecord.CTgovText = Dose Finding Study
+Un-bucketed nctids due to not located in SNOMED hierarchy = NCT00989404
+	trialRecord.conceptName = Influenza A virus H1N1 subtype not detected
+	trialRecord.CTgovText = H1N1 Subtype Influenza A Virus
+Un-bucketed nctids due to not located in SNOMED hierarchy = NCT01456936
+	trialRecord.conceptName = Heroin dependence
+	trialRecord.CTgovText = Smoking Cessation
+Un-bucketed nctids due to not located in SNOMED hierarchy = NCT01466361
+	trialRecord.conceptName = Heroin dependence
+	trialRecord.CTgovText = Smoking
+	trialRecord.conceptName = Heroin dependence
+	trialRecord.CTgovText = Smoking Cessation
+Un-bucketed nctids due to not located in SNOMED hierarchy = NCT03640832
+	trialRecord.conceptName = Skin cleared
+	trialRecord.CTgovText = Skin Care
+Un-bucketed nctids due to not located in SNOMED hierarchy = NCT01624675
+	trialRecord.conceptName = Moderate nutritional stunting in infancy childhood and adolescence
+	trialRecord.CTgovText = Autistic Disorder in Children and Adolescents
+Un-bucketed nctids due to not located in SNOMED hierarchy = NCT00745901
+	trialRecord.conceptName = Drug-related disorder
+	trialRecord.CTgovText = Contraception
+Un-bucketed nctids due to not located in SNOMED hierarchy = NCT02706834
+	trialRecord.conceptName = Nose finding
+	trialRecord.CTgovText = Dose Finding Study
+Un-bucketed nctids due to not located in SNOMED hierarchy = NCT00236769
+	trialRecord.conceptName = Drug-related disorder
+	trialRecord.CTgovText = Contraception
+Un-bucketed nctids due to not located in SNOMED hierarchy = NCT01476202
+	trialRecord.conceptName = Heroin dependence
+	trialRecord.CTgovText = Smoking Cessation
+Un-bucketed nctids due to not located in SNOMED hierarchy = NCT02257359
+	trialRecord.conceptName = Complications of attempted introduction of embryo in embryo transfer
+	trialRecord.CTgovText = Embryo Transfer
+Un-bucketed nctids due to not located in SNOMED hierarchy = NCT01309828
+	trialRecord.conceptName = Safety finding
+	trialRecord.CTgovText = Safety
+Un-bucketed nctids due to not located in SNOMED hierarchy = NCT02141698
+	trialRecord.conceptName = Nose finding
+	trialRecord.CTgovText = Dose Finding Study
+Un-bucketed nctids due to not located in SNOMED hierarchy = NCT01496443
+	trialRecord.conceptName = Cytokinetic alteration
+	trialRecord.CTgovText = Pharmacokinetics
+Un-bucketed nctids due to not located in SNOMED hierarchy = NCT00143364
+	trialRecord.conceptName = Heroin dependence
+	trialRecord.CTgovText = Smoking Cessation
+Un-bucketed nctids due to not located in SNOMED hierarchy = NCT02703181
+	trialRecord.conceptName = Complications of attempted introduction of embryo in embryo transfer
+	trialRecord.CTgovText = Embryo Transfer
+Un-bucketed nctids due to not located in SNOMED hierarchy = NCT02064907
+	trialRecord.conceptName = Patient unavailable
+	trialRecord.CTgovText = Bioavailability
+Un-bucketed nctids due to not located in SNOMED hierarchy = NCT00237497
+	trialRecord.conceptName = Able to balance
+	trialRecord.CTgovText = Balance
+Un-bucketed nctids due to not located in SNOMED hierarchy = NCT00143286
+	trialRecord.conceptName = Heroin dependence
+	trialRecord.CTgovText = Smoking Cessation
+Un-bucketed nctids due to not located in SNOMED hierarchy = NCT01391663
+	trialRecord.conceptName = Iron kinetics normal
+	trialRecord.CTgovText = Pharmacokinetics and Pharmacodynamics
+Un-bucketed nctids due to not located in SNOMED hierarchy = NCT00097695
+	trialRecord.conceptName = Angioedema
+	trialRecord.CTgovText = Angioedema
+Un-bucketed nctids due to not located in SNOMED hierarchy = NCT02567773
+	trialRecord.conceptName = Cachexia
+	trialRecord.CTgovText = Cachexia
+Un-bucketed nctids due to not located in SNOMED hierarchy = NCT01831804
+	trialRecord.conceptName = Finding of wound healing
+	trialRecord.CTgovText = Wound Healing

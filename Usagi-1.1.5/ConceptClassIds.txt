@@ -1,0 +1,130 @@
+10th level
+11th level
+12th level
+2-dig nonbill code
+2nd level
+3-dig billing code
+3-dig nonbill code
+3rd level
+4-dig billing code
+4th level
+5th level
+6th level
+7th level
+8th level
+9th level
+AJCC Category
+AJCC Chapter
+ATC 1st
+ATC 2nd
+ATC 3rd
+ATC 4th
+ATC 5th
+Animal Drug
+Answer
+Attribute
+Benefit
+Body Structure
+Branded Dose Group
+Branded Drug
+Branded Drug Box
+Branded Drug Comp
+Branded Drug Form
+Branded Pack
+Branded Pack Box
+CDM
+CPT4
+CPT4 Hierarchy
+CPT4 Modifier
+Canonical Unit
+Cellular Therapy
+Claims Attachment
+Clinical Dose Group
+Clinical Drug
+Clinical Drug Box
+Clinical Drug Comp
+Clinical Drug Form
+Clinical Finding
+Clinical Observation
+Clinical Pack
+Clinical Pack Box
+Condition Status
+Context-dependent
+Cosmetic
+Currency
+Detail
+Device
+Disease Dynamic
+Disease Extent
+Disposition
+Doc Kind
+Doc Role
+Doc Setting
+Doc Subject Matter
+Doc Type of Service
+Dose Form
+Dose Form Group
+Episode of Care
+Ethnicity
+Event
+Field
+Food
+Gender
+Genomic Variant
+HCPCS
+HCPCS Modifier
+Ingredient
+LOINC Class
+LOINC Group
+LOINC Hierarchy
+Lab Test
+Linkage Assertion
+Location
+Marketed Product
+Metadata
+Metal level
+Morph Abnormality
+Non-Stand Allergenic
+OTC Drug
+Observable Entity
+Observation
+Organism
+Payer
+Pharma/Biol Product
+Physical Force
+Physical Object
+Physician Specialty
+Plan Stop Reason
+Plasma Derivative
+Precoordinated pair
+Prescription Drug
+Procedure
+Protein Variant
+Provider
+Qualifier Value
+Quant Branded Box
+Quant Branded Drug
+Quant Clinical Box
+Quant Clinical Drug
+Race
+Relationship
+Revenue Code
+Social Context
+Specimen
+Sponsor
+Staging / Scales
+Standard Allergenic
+Substance
+Summary
+Supplement
+Survey
+Table
+Transcript Variant
+Treatment
+Type Concept
+UB04 Pri Typ of Adm
+US Census Division
+US Census Region
+Unit
+Vaccine
+Visit

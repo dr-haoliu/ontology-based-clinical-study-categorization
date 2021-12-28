@@ -1,0 +1,51 @@
+Abbreviation	FullName	MoreInformation
+AML	Acute Myelogenous Leukemia	Add more.
+GBS	Group B Streptococcus	Add more
+GBS Disease	Group B Streptococcus	Add more
+ACL	Anterior cruciate ligament	Commonly injured part of the knee
+ADHD	Attention deficit hyperactivity disorder	A behavior disorder
+SLE	Systemic lupus erythematosus	Lupus for short
+SLE glomerulonephritis syndrome	 Systemic lupus erythematosus glomerulonephritis syndrome	add
+SOB	Shortness of Breath	Add
+SARS-CoV-2	Covid-19	Add
+SARS-CoV 2	Covid-19	Add
+IBS	Irritable bowel syndrome	A problem with the large intestine
+Covid19	Covid-19	Add
+Covid	Covid-19	Add
+HCV Infection	Hepatitis C virus	add
+HIV	Human immunodeficiency virus infection	
+HIV-1	Human immunodeficiency virus I infection	
+HIV-2	Human immunodeficiency virus II infection	
+Human Papillomavirus (HPV) Infection	Human Papilloma virus infection	
+IBD	Inflammatory bowel disease	Add
+Influenzavirus A	Influenza due to Influenza A virus	
+Metastasis	Metastases	
+Neoplasms	Neoplastic disease	
+Immunologic Diseases	Disorder of immune function	
+Immunologic Disease	Disorder of immune function	
+Hematologic Diseases	Disorder of hematopoietic structure	
+Hematologic Disease	Disorder of hematopoietic structure	
+Brain metastases	Metastasis to brain	
+Bone metastases	Bony metastases	
+Chronic Hepatitis C Virus Infection	Chronic Hepatitis C Virus	
+Hepatitis C Virus (HCV) Infection	Hepatitis C Virus	
+Chronic Lymphocytic Leukaemia	Chronic Lymphocytic Leukemia	
+Locally Advanced Prostate Cancer	Advanced Prostate Cancer	
+Dental Focal Infection	
+Digital Ulcers	
+DS Stage II Plasma Cell Myeloma	
+Enthesitis Related Arthritis (ERA)	
+Glioblastoma	
+Metastatic Disease	
+Metastatic Gastric Adenocarcinoma	
+Mucosal Melanoma	
+Neuroendocrine Neoplasm	
+Pneumococcal Vaccine
+Pneumococcal Vaccines
+Poliomyelitis Vaccines
+Precocious
+Rotavirus Gastroenteritis
+Sclerosis
+Stage IV Wilms Tumor
+Tumors
+Vaccines

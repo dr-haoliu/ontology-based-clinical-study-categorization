@@ -1,0 +1,39 @@
+ABMS
+ATC
+CDM
+CMS Place of Service
+CPT4
+Condition Status
+Cost
+Currency
+Episode
+Ethnicity
+Gender
+HCPCS
+ICD9Proc
+Korean Revenue Code
+LOINC
+Medicare Specialty
+Metadata
+NCIt
+NDC
+NUCC
+OMOP Extension
+OSM
+PHDSC
+Plan
+Plan Stop Reason
+Race
+Relationship
+Revenue Code
+RxNorm
+RxNorm Extension
+SNOMED
+SPL
+Sponsor
+Type Concept
+UB04 Pri Typ of Adm
+UB04 Typ bill
+UCUM
+US Census
+Visit
