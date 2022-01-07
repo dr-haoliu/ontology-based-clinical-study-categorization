@@ -42,6 +42,7 @@ public class TestClassifyTrialConditionsWithSNOMED {
 
         System.out.println("Loading");
         OAFStateFileManager stateFileManager = new OAFStateFileManager("BLUSNO");
+        Boolean default_cat = false;
 
 
         if (inputDirectory.isDirectory()) {
@@ -72,6 +73,10 @@ public class TestClassifyTrialConditionsWithSNOMED {
 
                         String fileName = "data/Index_term_Classification_0707.csv";
                         Map<String, List<String>> bucketsListMap = readBucketsListUpdated(fileName, release);
+
+                        if(default_cat){
+                            bucketsListMap = readBucketsListDefault(release);
+                        }
 
 
                         String topConditionTrialFile = "data/mapped/after_mapped_concept_2021_04_Vivli_NCT_ID_studies.csv";
@@ -273,6 +278,32 @@ public class TestClassifyTrialConditionsWithSNOMED {
             }
             resultMap.put(bucketName, idlist);
 
+            System.out.println();
+        }
+
+        return resultMap;
+
+    }
+
+    private Map<String, List<String>> readBucketsListDefault(SCTRelease release){
+
+
+        Map<String, List<String>> resultMap = new HashMap<>();
+
+        long id = Long.parseLong("64572001");
+//        Disease (disorder)  SCTID: 64572001
+
+        Optional<SCTConcept> optConcept = release.getConceptFromId(id);
+
+        SCTConcept rootConcept = optConcept.get();
+
+        Set<SCTConcept> children = release.getConceptHierarchy().getChildren(rootConcept);
+
+        for (SCTConcept child : children) {
+            String bucketName = child.getName();
+            System.out.println("default bucket name = " + bucketName.trim());
+            List<String> idlist = Collections.singletonList(child.getIDAsString());
+            resultMap.put(bucketName, idlist);
             System.out.println();
         }
 
