@@ -1,5 +1,5 @@
-# Ontology-based Classification of Clinical Studies by Their Conditions
-Data, source code, and result for manuscript Ontology-based Classification of Clinical Studies by Their Conditions
+# Ontology-based Categorization of Clinical Studies by Their Conditions
+Data, source code, and result for manuscript Ontology-based Categorization of Clinical Studies by Their Conditions
 
 Requirement:
 * Java 8
