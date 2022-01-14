@@ -13,7 +13,7 @@ Default categorization:
 
 Custom categorization:
 User can define their own concepts (index terms) for customized categorizations. 
-**[Format template](data/Index term for categories_Classification_07072021.xlsx)**
+**[Format template](data/Index_terms_categorization_0707_2021.xlsx)**
 
 Instructions:
 1. Run **[TestTrialFetcher.java](SNOMEDTest/src/main/java/edu/TestTrialFetcher.java)** to extract clinical studies from ClinicalTrials.GOV ;
