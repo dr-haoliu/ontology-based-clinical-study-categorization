@@ -3,7 +3,7 @@ Data, source code, and result for manuscript Ontology-based Categorization of Cl
 
 Requirement:
 * Java 8
-* Usagi 1.15
+* Usagi 1.1.5
 * **[SNOMED CT RF2 release file](https://www.nlm.nih.gov/healthit/snomedct/international.html)**
 * or **[MeSH ASCII release file](https://www.nlm.nih.gov/databases/download/mesh.html)** (e.g., d2022.bin)
 
