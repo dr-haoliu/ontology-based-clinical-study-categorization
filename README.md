@@ -16,7 +16,7 @@ User can define their own concepts (index terms) for customized categorizations.
 **[Format template](data/Index_terms_categorization_0707_2021.xlsx)**
 
 Instructions:
-1. Run **[TestTrialFetcher.java](SNOMEDTest/src/main/java/edu/TestTrialFetcher.java)** to extract clinical studies from ClinicalTrials.GOV ;
+1. Run **[TestTrialFetcher.java](OntologyCore/src/main/java/edu/TestTrialFetcher.java)** to extract clinical studies from ClinicalTrials.GOV ;
 2. Run **[TestConceptSearch.java](Usagi-1.1.5/src/org/ohdsi/apis/TestConceptSearch.java)** to perform concept normalizaiton with Usagi ;
-3. Run **[TestClassifyTrialConditionsWithSNOMED.java](SNOMEDTest/src/main/java/edu/TestClassifyTrialConditionsWithSNOMED.java)** to get classification results;
-4. Run **[TestClassifyTrialConditionsWithMeSH.java](SNOMEDTest/src/main/java/edu/TestClassifyTrialConditionsWithMeSH.java)** to get classification results. 
+3. Run **[TestClassifyTrialConditionsWithSNOMED.java](OntologyCore/src/main/java/edu/TestClassifyTrialConditionsWithSNOMED.java)** to get classification results;
+4. Run **[TestClassifyTrialConditionsWithMeSH.java](OntologyCore/src/main/java/edu/TestClassifyTrialConditionsWithMeSH.java)** to get classification results. 
