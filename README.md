@@ -1,6 +1,8 @@
 # Ontology-based Categorization of Clinical Studies by Their Conditions
 Data, source code, and result for manuscript Ontology-based Categorization of Clinical Studies by Their Conditions
 
+The demonstration is available at http://cliver.chunhualab.org:8090/ 
+
 Requirement:
 * Java 8
 * **[Usagi 1.1.5](https://github.com/OHDSI/Usagi)**
