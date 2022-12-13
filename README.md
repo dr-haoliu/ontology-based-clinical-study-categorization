@@ -1,5 +1,6 @@
 # Ontology-based Categorization of Clinical Studies by Their Conditions
-Data, source code, and result for the Journal of Biomedical Informatics paper [Ontology-based Categorization of Clinical Studies by Their Conditions] (https://doi.org/10.1016/j.jbi.2022.104235)
+Data, source code, and result for the Journal of Biomedical Informatics paper **"Ontology-based Categorization of Clinical Studies by Their Conditions"** 
+[![DOI:10.1016/j.jbi.2022.104235](http://img.shields.io/badge/DOI-10.1016/j.jbi.2022.104235-B31B1B.svg)](https://doi.org/10.1016/j.jbi.2022.104235)
 
 The demonstration is available at http://cliver.chunhualab.org:8090/ 
 
